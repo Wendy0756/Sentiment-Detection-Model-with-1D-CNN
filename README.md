@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <h3 align="center">w207_Final_Project: Emotion Detecting Model on Tweets</h3>
+  <h3 align="center">Emotion Detecting Model on Tweets</h3>
 
   <p align="center">
     Bernardo Cobos, Rebecca Bargiachi, William Lei, Xueying Tian
